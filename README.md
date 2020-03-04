@@ -1,0 +1,2 @@
+# ByteCoins
+Software for Mining
